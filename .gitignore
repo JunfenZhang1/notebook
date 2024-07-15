@@ -3,4 +3,4 @@
 *.doc
 *.ppt
 *.pptx
-*-workspace
+*.code-workspace
